@@ -96,7 +96,7 @@
 
   <!-- Profile Photo: replace profile.jpg with your uploaded image filename in this repo -->
   <g clip-path="url(#circleClip)">
-    <image href="(https://github.com/vinodgaddam1/vinodgaddam1/blob/main/profile.jpg)" x="90" y="90" width="220" height="220" preserveAspectRatio="xMidYMid slice" />
+    <image href="[(https://github.com/vinodgaddam1/vinodgaddam1/blob/main/profile.jpg)](https://raw.githubusercontent.com/vinodgaddam1/vinodgaddam1/main/profile.jpg)" x="90" y="90" width="220" height="220" preserveAspectRatio="xMidYMid slice" />
     <circle cx="200" cy="200" r="110" fill="none" stroke="#00f3ff" stroke-width="3" filter="url(#strongGlow)" />
   </g>
 
