@@ -1,227 +1,262 @@
-<div align="center">
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Vinod+Kumar;RTL+Design+Engineer;ASIC+Design+Engineer;Verification+Engineer;Physical+Design+Engineer;RISC-V+Developer;AI+Automation+Engineer;VLSI+Engineer" alt="Typing Animation" />
+<!-- GITHUB PROFILE README FOR GADDAM VINOD KUMAR -->
 
-<!-- Futuristic Chip Profile Container -->
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-
-<!-- Main Chip SVG -->
-<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="chipGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#b8860b;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="hologram" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
-      <stop offset="50%" style="stop-color:rgba(255,255,255,0.2);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="strongGlow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="circleClip">
-      <circle cx="200" cy="200" r="110" />
-    </clipPath>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(0,243,255,0.1)" stroke-width="0.5"/>
-    </pattern>
-  </defs>
-
-  <circle cx="200" cy="200" r="190" fill="none" stroke="#00f3ff" stroke-width="2" opacity="0.3" stroke-dasharray="20 10 5 10">
-    <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="20s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="200" cy="200" r="210" fill="none" stroke="#bc13fe" stroke-width="2" opacity="0.3" stroke-dasharray="40 20">
-    <animateTransform attributeName="transform" type="rotate" from="360 200 200" to="0 200 200" dur="25s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="200" cy="200" r="230" fill="none" stroke="#ffd700" stroke-width="1" opacity="0.3" stroke-dasharray="10 5 2 5">
-    <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="30s" repeatCount="indefinite" />
-  </circle>
-
-  <rect x="80" y="25" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="130" y="25" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="196" y="25" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="262" y="25" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="312" y="25" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="80" y="350" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="130" y="350" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="196" y="350" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="262" y="350" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="312" y="350" width="8" height="25" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="25" y="80" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="25" y="130" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="25" y="196" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="25" y="262" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="25" y="312" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="350" y="80" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="350" y="130" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="350" y="196" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="350" y="262" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-  <rect x="350" y="312" width="25" height="8" rx="2" fill="url(#goldGrad)" filter="url(#glow)" />
-
-  <rect x="50" y="50" width="300" height="300" rx="30" ry="30" fill="url(#chipGrad)" stroke="rgba(255,255,255,0.1)" stroke-width="2" />
-  <rect x="50" y="50" width="300" height="300" rx="30" ry="30" fill="url(#grid)" />
-  <rect x="50" y="50" width="300" height="300" rx="30" ry="30" fill="url(#hologram)" opacity="0.5">
-    <animate attributeName="x" values="-300;400" dur="4s" repeatCount="indefinite" />
-  </rect>
-
-  <path d="M60,60 L150,150 L200,200" fill="none" stroke="#00f3ff" stroke-width="1.5" opacity="0.6" filter="url(#glow)">
-    <animate attributeName="stroke-dasharray" values="0,300;300,0" dur="3s" repeatCount="indefinite" />
-  </path>
-  <path d="M340,60 L250,150 L200,200" fill="none" stroke="#00f3ff" stroke-width="1.5" opacity="0.6" filter="url(#glow)">
-    <animate attributeName="stroke-dasharray" values="0,300;300,0" dur="3s" begin="0.5s" repeatCount="indefinite" />
-  </path>
-  <path d="M60,340 L150,250 L200,200" fill="none" stroke="#00f3ff" stroke-width="1.5" opacity="0.6" filter="url(#glow)">
-    <animate attributeName="stroke-dasharray" values="0,300;300,0" dur="3s" begin="1s" repeatCount="indefinite" />
-  </path>
-  <path d="M340,340 L250,250 L200,200" fill="none" stroke="#00f3ff" stroke-width="1.5" opacity="0.6" filter="url(#glow)">
-    <animate attributeName="stroke-dasharray" values="0,300;300,0" dur="3s" begin="1.5s" repeatCount="indefinite" />
-  </path>
-
-  <circle cx="200" cy="200" r="125" fill="none" stroke="#00ffea" stroke-width="2" opacity="0.8" stroke-dasharray="10 5">
-    <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="10s" repeatCount="indefinite" />
-    <animate attributeName="r" values="125;130;125" dur="3s" repeatCount="indefinite" />
-  </circle>
-
-  <!-- Profile Photo: replace profile.jpg with your uploaded image filename in this repo -->
-  <g clip-path="url(#circleClip)">
-    <image href="[(https://github.com/vinodgaddam1/vinodgaddam1/blob/main/profile.jpg)](https://raw.githubusercontent.com/vinodgaddam1/vinodgaddam1/main/profile.jpg)" x="90" y="90" width="220" height="220" preserveAspectRatio="xMidYMid slice" />
-    <circle cx="200" cy="200" r="110" fill="none" stroke="#00f3ff" stroke-width="3" filter="url(#strongGlow)" />
-  </g>
-
-  <rect x="70" y="70" width="35" height="20" rx="3" fill="rgba(188,19,254,0.2)" stroke="#bc13fe" stroke-width="1" />
-  <text x="87" y="84" font-family="monospace" font-size="10" fill="#bc13fe" text-anchor="middle" font-weight="bold">AND</text>
-  <rect x="295" y="70" width="35" height="20" rx="3" fill="rgba(188,19,254,0.2)" stroke="#bc13fe" stroke-width="1" />
-  <text x="312" y="84" font-family="monospace" font-size="10" fill="#bc13fe" text-anchor="middle" font-weight="bold">OR</text>
-  <rect x="70" y="310" width="35" height="20" rx="3" fill="rgba(188,19,254,0.2)" stroke="#bc13fe" stroke-width="1" />
-  <text x="87" y="324" font-family="monospace" font-size="10" fill="#bc13fe" text-anchor="middle" font-weight="bold">XOR</text>
-  <rect x="295" y="310" width="40" height="20" rx="3" fill="rgba(188,19,254,0.2)" stroke="#bc13fe" stroke-width="1" />
-  <text x="315" y="324" font-family="monospace" font-size="10" fill="#bc13fe" text-anchor="middle" font-weight="bold">NAND</text>
-
-  <text x="200" y="45" font-family="monospace" font-size="12" fill="#ffd700" text-anchor="middle" font-weight="bold" filter="url(#glow)">RISC-V | UVM</text>
-  <text x="200" y="370" font-family="monospace" font-size="12" fill="#ffd700" text-anchor="middle" font-weight="bold" filter="url(#glow)">RTL • VERIFICATION • PD</text>
-
-  <circle r="3" fill="#00f3ff" filter="url(#glow)">
-    <animateMotion path="M60,60 L150,150 L200,200" dur="2s" repeatCount="indefinite" />
-  </circle>
-  <circle r="3" fill="#00f3ff" filter="url(#glow)">
-    <animateMotion path="M340,340 L250,250 L200,200" dur="2s" begin="1s" repeatCount="indefinite" />
-  </circle>
-</svg>
-
-> **Note:** upload your photo to this repository as `profile.jpg` (same folder as this README) so it renders in place of the placeholder above.
-
-</td>
-  </tr>
-</table>
-
-### Aspiring RTL Design & Verification Engineer | Verilog | SystemVerilog | Digital Design
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaddamvinod9391@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinod-kumar-gaddam)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinodgaddam1)
-
+<!-- HERO SECTION -->
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em; margin: 0;">
+  <span style="color:#00ffff;">GADDAM VINOD KUMAR</span>
+</h1>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.5em; margin-top: 0.2em;">
+  Aspiring RTL Design & Verification Engineer
+</h2>
+<p align="center" style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1em; margin-top: 0.5em;">
+  <code>Verilog</code> • <code>SystemVerilog</code> • <code>Digital Design</code> • <code>ASIC Flow</code> • <code>RISC-V</code>
+</p>
+<div align="center" style="margin-top: 1em;">
+  <!-- Contact Links -->
+  <a href="mailto:gaddamvinod9391@gmail.com" style="margin: 0 1em; color:#00ffff;">Email</a>
+  <a href="https://linkedin.com/in/vinod-kumar-gaddam" style="margin: 0 1em; color:#00ffff;">LinkedIn</a>
+  <a href="https://github.com/vinodgaddam1" style="margin: 0 1em; color:#00ffff;">GitHub</a>
 </div>
 
----
+<!-- ADD A SUBTLE ANIMATED CIRCUIT SVG -->
+<div align="center" style="margin-top: 2em;">
+  <img src="https://raw.githubusercontent.com/vinodgaddam1/vinodgaddam1/main/assets/circuit_animation.svg" alt="Circuit Animation" width="600"/>
+</div>
 
-## 🧑‍💻 About Me
+<!-- ABOUT ME -->
+## About Me
+I'm an aspiring RTL Design & Verification Engineer with a focus on digital logic, ASIC flows, and processor design. My interests include:
 
-I'm an Electronics and Communication Engineering student (B.Tech, 2022–2026) at **Madanapalle Institute of Technology & Science (MITS)**, with a CGPA of **8.19/10**, aspiring to build a career as an **RTL Design & Verification Engineer**. I'm skilled in Verilog, SystemVerilog, ASIC design flow, and functional verification, with hands-on experience across the RTL-to-GDSII flow using Cadence EDA tools. I also make use of AI tools (Claude, ChatGPT, Gemini, Kimi, Lovable, Rocket) to accelerate design, debugging, and documentation work.
+- RTL Design and Functional Verification
+- Verilog/SystemVerilog
+- Digital Logic & FSM Design
+- ASIC RTL-to-GDSII flow
+- RISC-V processor architecture
+- Simulation, Debugging & EDA tools
+- AI-assisted engineering workflows
 
-I'm actively looking to contribute to innovative VLSI design and verification projects.
+I'm passionate about building reliable silicon and continuously expanding my knowledge in VLSI design principles.
 
----
+<!-- VLSI PIPELINE -->
+## ⚡ RTL → Verification → ASIC Flow
 
-## 🛠️ Tech Stack & Skills
+| **Digital Design** | ⬇️ | **RTL Design** | ⬇️ | **Simulation** | ⬇️ | **Functional Verification** | ⬇️ | **Synthesis** | ⬇️ | **STA** | ⬇️ | **Physical Design** | ⬇️ | **GDSII** |
+|---------------------|------|----------------|------|----------------|------|-----------------------------|------|--------------|------|--------|-------|---------------------|------|---------|
+| ![Design](https://img.icons8.com/ios/50/000000/circuit.png) | | ![RTL](https://img.icons8.com/ios/50/000000/logic-gate.png) | | ![Simulation](https://img.icons8.com/ios/50/000000/test-tube.png) | | ![Verification](https://img.icons8.com/ios/50/000000/verified.png) | | ![Synthesis](https://img.icons8.com/ios/50/000000/merge-git.png) | | ![STA](https://img.icons8.com/ios/50/000000/clock.png) | | ![Physical](https://img.icons8.com/ios/50/000000/puzzle.png) | | ![GDSII](https://img.icons8.com/ios/50/000000/file.png) |
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/-SystemVerilog-00F3FF?style=for-the-badge&logo=verilog&logoColor=black" />
-  <img src="https://img.shields.io/badge/-UVM-BC13FE?style=for-the-badge&logo=chip&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RISC--V-FFD700?style=for-the-badge&logo=riscv&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Verilog-00FFEA?style=for-the-badge&logo=verilog&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</h3>
+*(Note: Use these icons or replace with suitable SVGs or images)*
 
-| Category | Skills |
-|---|---|
-| **RTL Design** | Combinational & Sequential Logic, FSM Design, Counters, Shift Registers, ALU, Multiplexers, COA |
-| **Verification** | Testbench Development, Waveform Analysis, Clock/Frequency Generation |
-| **ASIC Design Flow** | RTL Design, Simulation, Synthesis, Static Timing Analysis (STA), Physical Design Basics |
-| **EDA Tools** | ModelSim, Vivado, EDA Playground, Gvim, Cadence Genus, Cadence Innovus, NCLaunch, Qflow |
-| **HDLs & Programming** | Verilog HDL, SystemVerilog, Python, Linux |
-| **AI Tools** | Kimi AI, Quadratic, ChatGPT, Claude, Gemini, Lovable, Rocket |
-| **Other** | GitHub, Problem Solving, Team Collaboration, Technical Documentation |
+<!-- TECHNICAL SKILLS -->
+## 🛠 Technical Skills
 
----
+### RTL DESIGN
+![Verilog](https://img.shields.io/badge/Verilog-HDL-2f2f2f?logo=verilog&logoColor=00ffff)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-2f2f2f?logo=verilog&logoColor=00ffff)
+![Combinational Logic](https://img.shields.io/badge/Combinational-Logic-2f2f2f)
+![Sequential Logic](https://img.shields.io/badge/Sequential-Logic-2f2f2f)
+![FSM](https://img.shields.io/badge/FSM-Design-2f2f2f)
+![Counters](https://img.shields.io/badge/Counters-RTL-2f2f2f)
+![Shift Registers](https://img.shields.io/badge/Shift_Regs-RTL-2f2f2f)
+![ALU](https://img.shields.io/badge/ALU-Design-2f2f2f)
+![Multiplexers](https://img.shields.io/badge/MUX-RTL-2f2f2f)
+![COA](https://img.shields.io/badge/COA-Design-2f2f2f)
 
-## 🔬 Research & Projects
+### VERIFICATION
+![Testbench](https://img.shields.io/badge/Testbench-Verification-2f2f2f)
+![Functional Verification](https://img.shields.io/badge/Functional-Verification-2f2f2f)
+![Waveform Analysis](https://img.shields.io/badge/Waveform-Analysis-2f2f2f)
+![Simulation](https://img.shields.io/badge/Simulation-Tools-2f2f2f)
+![Debugging](https://img.shields.io/badge/Debugging-Tools-2f2f2f)
+![Clock Generation](https://img.shields.io/badge/Clock-Generation-2f2f2f)
 
-### 📄 IEEE Published Research (2026)
-**Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow**
-- Designed and implemented a 32-bit RV32IM RISC-V processor using Verilog HDL
-- Executed the complete ASIC RTL-to-GDSII design flow using Cadence EDA tools
-- Targeted 7-nm technology with emphasis on timing closure, area optimization, and power efficiency
-- Published in the IEEE Xplore Digital Library → [Read the paper](https://ieeexplore.ieee.org/abstract/document/11559546)
+### ASIC DESIGN FLOW
+![RTL](https://img.shields.io/badge/RTL-Design-2f2f2f)
+![Simulation](https://img.shields.io/badge/Simulation-Tools-2f2f2f)
+![Synthesis](https://img.shields.io/badge/Synthesis-EDA-2f2f2f)
+![STA](https://img.shields.io/badge/STA-Analysis-2f2f2f)
+![Physical](https://img.shields.io/badge/Physical-Design-2f2f2f)
+![RTL-to-GDSII](https://img.shields.io/badge/RTL-to-GDSII-Flow-2f2f2f)
 
-### ⚙️ 32-bit Arithmetic Logic Unit (ALU) — 2025
-- Designed a parameterized 32-bit ALU supporting arithmetic, logical, comparison, and shift operations
-- Developed self-checking Verilog testbenches to verify all ALU operations
-- Performed RTL simulation, debugging, and functional verification
+### EDA TOOLS
+![ModelSim](https://img.shields.io/badge/ModelSim-Active-0a0a0a)
+![Vivado](https://img.shields.io/badge/Vivado-Tools-0a0a0a)
+![EDA Playground](https://img.shields.io/badge/EDA_Playground-Online-0a0a0a)
+![Cadence Genus](https://img.shields.io/badge/Cadence-Genus-0a0a0a)
+![Cadence Innovus](https://img.shields.io/badge/Cadence-Innovus-0a0a0a)
+![Qflow](https://img.shields.io/badge/Qflow-Open-0a0a0a)
+![NCLaunch](https://img.shields.io/badge/NCLaunch-Flow-0a0a0a)
 
-### 🔌 Other Projects
-- **UART Protocol Design and Verification**
-- **Finite State Machine (FSM) Design and Verification**
+### PROGRAMMING / ENVIRONMENT
+![Python](https://img.shields.io/badge/Python-Programming-306998?logo=python)
+![Linux](https://img.shields.io/badge/Linux-Env-333333?logo=linux)
+![Git](https://img.shields.io/badge/Git-Version-333333?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-333333?logo=github)
 
----
+<!-- AI-ASSISTED ENGINEERING -->
+## 🤖 AI-Assisted Engineering
+| Tool | Badge |
+|-------|--------|
+| ChatGPT | ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-00ffff) |
+| Claude | ![Claude](https://img.shields.io/badge/Claude-AI-00ffff) |
+| Gemini | ![Gemini](https://img.shields.io/badge/Gemini-AI-00ffff) |
+| Kimi AI | ![Kimi](https://img.shields.io/badge/Kimi-AI-00ffff) |
+| Lovable | ![Lovable](https://img.shields.io/badge/Lovable-AI-00ffff) |
+| Rocket | ![Rocket](https://img.shields.io/badge/Rocket-AI-00ffff) |
+| Quadratic | ![Quadratic](https://img.shields.io/badge/Quadratic-AI-00ffff) |
 
-## 🎓 Education
+*These tools assist in learning, documentation, debugging, and productivity workflows. They complement my engineering process without replacing core skills.*
 
-**B.Tech. in Electronics and Communication Engineering** (2022 – 2026)
-Madanapalle Institute of Technology & Science (MITS), Deemed to be University
-CGPA: **8.19/10**
+<!-- FEATURED PROJECT: RV32IM RISC-V -->
+## 🔥 RV32IM RISC-V Core — 7nm ASIC Flow
+![RISC-V Architecture](https://img.icons8.com/ios/100/00ffff/processor.png)
 
----
+A 32-bit RV32IM RISC-V processor designed in Verilog HDL, targeting a 7-nm ASIC process. Complete RTL-to-GDSII flow using Cadence EDA tools, with focus on:
 
-## 📜 Certifications
+- Timing Closure
+- Area & Power Optimization
+- IEEE Publication
+- Technology: 7nm
 
-- Physical Design (RTL-to-GDSII) Workshop – KT Semicon (2026)
-- VLSI SoC Design using Verilog HDL – Maven Silicon (2025)
-- Introduction to Microprocessors – edX
-- VLSI Training – NIELIT (2025)
-- Python for Beginners – Simplilearn
+**Research Publication:**  
+[Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow](https://ieeexplore.ieee.org/abstract/document/11559546)
 
----
+<!-- PROJECT: 32-bit ALU -->
+## 📐 32-bit Parameterized ALU
+- Supports arithmetic, logical, comparison, and shift operations
+- Parameterized RTL for flexibility
+- Self-checking Verilog testbench
+- RTL simulation & debugging
+- Functional verification
 
+<!-- OTHER PROJECTS -->
+## Other RTL / Verification Projects
+- UART Protocol Design & Verification
+- FSM Design & Verification
+- Counters & FIFO
+- RAM / Memory Design
+- APB-based Memory
+- Clock/Frequency Generation
+
+*(Brief descriptions; details vary)*
+
+<!-- ENGINEERING LEARNING JOURNEY -->
+## Engineering Learning Journey
+<div style="display:flex; justify-content: center; flex-wrap: wrap; gap: 1em;">
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>Digital Logic</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>Verilog</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>RTL Design</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>FSM</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>Memory</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>FIFO</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>UART</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>APB</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>SystemVerilog</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>Verification</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>ASIC Flow</strong>
+  </div>
+  <div style="background:#222; padding:1em; border-radius:8px;">
+    <strong>RISC-V</strong>
+  </div>
+</div>
+
+<!-- ASIC DESIGN JOURNEY -->
+## 🏭 ASIC DESIGN JOURNEY
+1. Specification
+2. Architecture
+3. RTL Design
+4. Simulation & Verification
+5. Synthesis
+6. STA & Timing Closure
+7. Floorplanning
+8. Placement & CTS
+9. Routing
+10. Signoff
+11. GDSII
+
+*(Distinguishing between worked and current learning concepts)*
+
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
+![Vinod Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodgaddam1&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodgaddam1&layout=compact&theme=dark)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinodgaddam1&theme=dark&date_format=M/D/YYYY)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinodgaddam1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f3ff&icon_color=bc13fe&text_color=c9d1d9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodgaddam1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f3ff&text_color=c9d1d9" height="150" />
-</p>
+<!-- CONTRIBUTION ACTIVITY -->
+## Contribution & Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vinodgaddam1&theme=github_dark)
 
+<!-- CURRENT FOCUS -->
+## 🎯 Currently Learning
+- SystemVerilog & Advanced RTL Design
+- Functional Verification & UVM
+- FIFO & CDC concepts
+- Protocols: APB, UART
+- ASIC design flow
+- RISC-V architecture & verification
+- Modern verification methodologies
+
+<!-- ENGINEERING PRINCIPLES -->
+## 🧠 Engineering Mindset
+- Understand the specification before coding
+- Design RTL with clear timing & intent
+- Verify thoroughly, not just compile
+- Debug from waveform insights
+- Consider corner cases
+- Grasp the entire ASIC flow
+- Use AI tools as assistants, not replacements
+
+<!-- EDUCATION -->
+## Education
+**B.Tech — Electronics and Communication Engineering**  
+Madanapalle Institute of Technology & Science (MITS), Deemed to be University  
+2022–2026  
+CGPA: 8.19/10
+
+<!-- CERTIFICATIONS -->
+## Certifications
+- Physical Design (RTL-to-GDSII) Workshop — KT Semicon, 2026
+- VLSI SoC Design using Verilog HDL — Maven Silicon, 2025
+- Introduction to Microprocessors — edX
+- VLSI Training — NIELIT, 2025
+- Python for Beginners — Simplilearn
+
+<!-- IEEE PUBLICATION -->
+## 📚 IEEE RESEARCH PUBLICATION
+**Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow**  
+[Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11559546)
+
+<!-- FOOTER -->
 ---
 
-## 📫 Let's Connect
+### Let's build reliable silicon.
 
-<p align="center">
-  <a href="mailto:gaddamvinod9391@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vinod-kumar-gaddam"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/vinodgaddam1"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="tel:+919391482203"><img src="https://img.shields.io/badge/-%2B91%209391482203-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+<div align="center" style="margin-top:1em;">
+  <a href="mailto:gaddamvinod9391@gmail.com" style="margin: 0 1em; color:#00ffff;">Email</a>
+  <a href="https://linkedin.com/in/vinod-kumar-gaddam" style="margin: 0 1em; color:#00ffff;">LinkedIn</a>
+  <a href="https://github.com/vinodgaddam1" style="margin: 0 1em; color:#00ffff;">GitHub</a>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00f3ff&height=120&section=footer&animation=twinkling"/>
+<!-- Optional animated circuit footer (if available) -->
+<div align="center" style="margin-top:2em;">
+  <img src="https://raw.githubusercontent.com/vinodgaddam1/vinodgaddam1/main/assets/footer_circuit.svg" alt="Circuit Footer" width="600"/>
+</div>
