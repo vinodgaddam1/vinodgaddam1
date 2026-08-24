@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vinodgaddam1's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GADDAM%20VINOD%20KUMAR&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20RTL%20Design%20%26%20Verification%20Engineer&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
