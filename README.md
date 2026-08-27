@@ -1,22 +1,20 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GADDAM%20VINOD%20KUMAR&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20RTL%20Design%20%26%20Verification%20Engineer&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GADDAM%20VINOD%20KUMAR&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GADDAM%20VINOD%20KUMAR&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20RTL%20Design%20%26%20Verification%20Engineer&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Verilog+%7C+SystemVerilog+%7C+Digital+Design;RTL+Design+%26+Functional+Verification;ASIC+RTL-to-GDSII+Flow;RISC-V+Processor+Design" alt="Typing SVG" />
-
-<br><br>
 
 `Verilog` • `SystemVerilog` • `Digital Design` • `ASIC Flow` • `RISC-V`
 
 <br>
+
+[![Email](https://img.shields.io/badge/Email-gaddamvinod9391%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0f2027)](mailto:gaddamvinod9391@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinod--kumar--gaddam-0f2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0f2027)](https://linkedin.com/in/vinod-kumar-gaddam)
+[![GitHub](https://img.shields.io/badge/GitHub-vinodgaddam1-0f2027?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0f2027)](https://github.com/vinodgaddam1)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/>
+
+</div>
 
 [![Email](https://img.shields.io/badge/Email-gaddamvinod9391%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0f2027)](mailto:gaddamvinod9391@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinod--kumar--gaddam-0f2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0f2027)](https://linkedin.com/in/vinod-kumar-gaddam)
