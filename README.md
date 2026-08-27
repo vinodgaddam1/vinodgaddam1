@@ -18,8 +18,19 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img
+    alt="GADDAM VINOD KUMAR GitHub profile"
+    src="dark_mode.svg"
+    width="100%"
+  />
+</picture>
 
-</div>
+<br>
+
+## 🔷 About Me
 
 <br>
 
