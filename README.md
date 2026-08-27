@@ -34,8 +34,6 @@
 
 <br>
 
-## 🔷 About Me
-
 I'm an aspiring **RTL Design & Verification Engineer**, currently building my foundation across the full ASIC design spectrum — from digital logic and RTL coding to functional verification and the RTL-to-GDSII flow.
 
 - 🔬 Focused on **RTL Design**, **Functional Verification**, and **Digital Logic**
