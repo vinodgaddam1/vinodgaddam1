@@ -9,7 +9,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/Email-gaddamvinod9391%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0f2027)](mailto:gaddamvinod9391@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinod--kumar--gaddam-0f2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0f2027)](https://linkedin.com/in/vinod-kumar-gaddam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinod--kumar--gaddam-0f2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0f2027)](linkedin.com/in/gaddamvinod)
 [![GitHub](https://img.shields.io/badge/GitHub-vinodgaddam1-0f2027?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0f2027)](https://github.com/vinodgaddam1)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/>
