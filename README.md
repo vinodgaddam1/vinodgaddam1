@@ -281,13 +281,7 @@ This reflects a **progressive learning path**, not claimed professional experien
 
 <br>
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodgaddam1&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00E5FF&line=A78BFA&point=ffffff"/>
-
-</div>
 
 <br>
 
