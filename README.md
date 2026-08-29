@@ -270,8 +270,7 @@ This reflects a **progressive learning path**, not claimed professional experien
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinodgaddam1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00E5FF&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodgaddam1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00E5FF&text_color=c9d1d9"/>
+
 
 <br>
 
