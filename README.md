@@ -352,3 +352,131 @@ Madanapalle Institute of Technology & Science (MITS), Deemed to be University
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=00E5FF&animation=fadeIn&fontAlignY=75" width="100%"/>
 
 </div>
+&lt;div align="center"&gt;
+
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MADDY%20RAMPANT&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45" width="100%"/&gt;
+
+&lt;br&gt;
+
+`Founder & CEO` • `Full-Stack Architect` • `UI/UX & Brand Designer` • `Product Strategist`
+
+&lt;br&gt;
+
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/&gt;
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;picture&gt;
+  &lt;source media="(prefers-color-scheme: dark)" srcset="maddy_profile.svg" /&gt;
+  &lt;source media="(prefers-color-scheme: light)" srcset="maddy_profile.svg" /&gt;
+  &lt;img
+    alt="Maddy Rampant — Founder & Full-Stack Architect"
+    src="maddy_profile.svg"
+    width="100%"
+  /&gt;
+&lt;/picture&gt;
+
+&lt;br&gt;
+
+## 🔷 About Me
+
+&lt;br&gt;
+
+I'm **Maddy Rampant** — **Founder & Full-Stack Architect**.
+
+- 🔬 15+ years where code meets design — crafting products that scale.
+- 💡 Founder mindset: turning wild ideas into real-world solutions.
+- 🚀 I don't just code — I architect experiences. ☕ bad kerning rant included.
+
+&gt; Great software starts with great design — **I architect experiences.**
+
+&lt;br&gt;
+
+## ⚡ Founder & CEO → Full-Stack Architect → UI/UX & Brand Designer → Product Strategist
+
+&lt;div align="center"&gt;
+
+| Role | Focus |
+|:---:|:---|
+| 🧠 **Founder & CEO** | Leading vision and turning ideas into products |
+| ✍️ **Full-Stack Architect** | Architecting end-to-end experiences |
+| 🎨 **UI/UX & Brand Designer** | Crafting design-driven solutions |
+| 📈 **Product Strategist** | Scaling products that matter |
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+## 🛠️ Technical Skills
+
+&lt;details open&gt;
+&lt;summary&gt;&lt;b&gt;🔹 Tech I Build With&lt;/b&gt;&lt;/summary&gt;
+&lt;br&gt;
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=00E5FF)
+![React](https://img.shields.io/badge/React-0f2027?style=flat-square&logo=react&logoColor=00E5FF)
+![Node.js](https://img.shields.io/badge/Node.js-0f2027?style=flat-square&logo=node.js&logoColor=00E5FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-0f2027?style=flat-square&logo=kotlin&logoColor=00E5FF)
+![Figma](https://img.shields.io/badge/Figma-0f2027?style=flat-square&logo=figma&logoColor=00E5FF)
+![Next.js](https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=next.js&logoColor=00E5FF)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0f2027?style=flat-square&logo=tailwind-css&logoColor=00E5FF)
+![Prisma](https://img.shields.io/badge/Prisma-0f2027?style=flat-square&logo=prisma&logoColor=00E5FF)
+![PHP](https://img.shields.io/badge/PHP-0f2027?style=flat-square&logo=php&logoColor=00E5FF)
+
+&lt;/details&gt;
+
+&lt;br&gt;
+
+## 📊 Stats
+
+&lt;div align="center"&gt;
+
+| Metric | Count |
+|:---:|:---:|
+| 📦 Repos | 18+ |
+| ⭐ Stars | 146+ |
+| 💻 Commits | 1K+ |
+| 👥 Followers | 112+ |
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+## 🎯 Manifesto
+
+&lt;div align="center"&gt;
+
+### `maddy@creator:~$ cat manifesto.md`
+
+&lt;/div&gt;
+
+- 🧩 **Founder & CEO**
+- 🧩 **Full-Stack Architect**
+- 🧩 **UI/UX & Brand Designer**
+- 🧩 **Product Strategist**
+
+&lt;br&gt;
+
+## 🌱 Profile Highlights
+
+&lt;div align="center"&gt;
+
+`Hi, I'm 👋` → `Maddy Rampant` → `Founder & Full-Stack Architect` → `I architect experiences.`
+
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/&gt;
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/&gt;
+
+&lt;div align="center"&gt;
+
+### 🤝 Let's build something great.
+
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=00E5FF&animation=fadeIn&fontAlignY=75" width="100%"/&gt;
+
+&lt;/div&gt;
