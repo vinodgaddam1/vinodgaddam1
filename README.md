@@ -351,10 +351,3 @@ Madanapalle Institute of Technology & Science (MITS), Deemed to be University
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=00E5FF&animation=fadeIn&fontAlignY=75" width="100%"/>
 
-</div>
-&lt;div align="center"&gt;
-
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MADDY%20RAMPANT&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45" width="100%"/&gt;
-
-&lt;br&gt;
-
