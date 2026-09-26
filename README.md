@@ -1,176 +1,353 @@
-# GADDAM VINOD KUMAR
+<div align="center">
 
-**RTL Design Engineer | Digital Design | ASIC Flow | RISC-V**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GADDAM%20VINOD%20KUMAR&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-Email: gaddamvinod9391@gmail.com
-LinkedIn: linkedin.com/in/vinod-kumar-gaddam
-GitHub: github.com/vinodgaddam1
+<br>
 
----
+`Verilog` • `SystemVerilog` • `Digital Design` • `ASIC Flow` • `RISC-V`
 
-## About Me
+<br>
 
-I'm an aspiring RTL Design & Verification Engineer, building my foundation across the full ASIC design spectrum — from digital logic and RTL coding to functional verification and the RTL-to-GDSII flow.
+[![Email](https://img.shields.io/badge/Email-gaddamvinod9391%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0f2027)](mailto:gaddamvinod9391@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinod--kumar--gaddam-0f2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0f2027)](https://www.linkedin.com/in/gaddamvinod/)
+[![GitHub](https://img.shields.io/badge/GitHub-vinodgaddam1-0f2027?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0f2027)](https://github.com/vinodgaddam1)
 
-**Key Focus Areas:**
-- RTL Design and Functional Verification
-- Digital Logic and FSM Design
-- Verilog / SystemVerilog Programming
-- ASIC RTL-to-GDSII Flow
-- RISC-V Processor Design
-- Python and Linux for Engineering Workflows
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/>
 
-I'm early in my journey and building real, verifiable skills — not claiming professional industry experience.
+</div>
 
----
+<br>
 
-## RTL Design & ASIC Flow Stages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img
+    alt="GADDAM VINOD KUMAR GitHub profile"
+    src="dark_mode.svg"
+    width="100%"
+  />
+</picture>
+
+<br>
+
+## 🔷 About Me
+
+<br>
+
+I'm an aspiring **RTL Design & Verification Engineer**, currently building my foundation across the full ASIC design spectrum — from digital logic and RTL coding to functional verification and the RTL-to-GDSII flow.
+
+- 🔬 Focused on **RTL Design**, **Functional Verification**, and **Digital Logic**
+- 🧩 Comfortable with **Verilog / SystemVerilog**, **FSM design**, and **simulation-based debugging**
+- ⚙️ Learning the **ASIC RTL-to-GDSII flow** using industry EDA tools
+- 🖥️ Exploring **RISC-V processor design** through hands-on RTL implementation
+- 🐍 Using **Python** and **Linux** for engineering workflows and automation
+- 🤖 Integrating **AI-assisted engineering** into my learning and debugging process
+
+> I'm early in my journey and building real, verifiable skills — not claiming professional industry experience.
+
+<br>
+
+## ⚡ RTL → Verification → ASIC Flow
+
+<div align="center">
 
 | Stage | Description |
-|-------|-------------|
-| Digital Design | Boolean logic, combinational & sequential circuits |
-| RTL Design | Verilog / SystemVerilog coding of digital modules |
-| Simulation | Functional simulation using ModelSim / EDA Playground |
-| Functional Verification | Testbenches, self-checking environments, waveform debug |
-| Synthesis | RTL-to-gate-level using Cadence Genus |
-| Static Timing Analysis | STA for timing closure |
-| Physical Design | Floorplanning, placement, CTS, routing using Cadence Innovus |
-| GDSII | Final signoff layout for fabrication |
+|:---:|:---|
+| 🧠 **Digital Design** | Boolean logic, combinational & sequential circuits |
+| ✍️ **RTL Design** | Verilog / SystemVerilog coding of digital modules |
+| ▶️ **Simulation** | Functional simulation using ModelSim / EDA Playground |
+| ✅ **Functional Verification** | Testbenches, self-checking environments, waveform debug |
+| 🔧 **Synthesis** | RTL-to-gate-level using Cadence Genus |
+| ⏱️ **STA** | Static Timing Analysis for timing closure |
+| 🏗️ **Physical Design** | Floorplanning, placement, CTS, routing using Cadence Innovus |
+| 📦 **GDSII** | Final signoff layout for fabrication |
 
----
+</div>
 
-## Technical Skills
+<br>
 
-### RTL Design
-- Verilog HDL, SystemVerilog
-- Combinational & Sequential Logic
-- FSM Design
-- Counters & Shift Registers
-- ALU Design
-- Multiplexers & Computer Organization
+## 🛠️ Technical Skills
 
-### Verification
-- Testbench Development
-- Functional Verification
-- Waveform Analysis
-- Simulation & Debugging
-- Clock/Frequency Generation
+<details open>
+<summary><b>🔹 RTL Design</b></summary>
+<br>
 
-### ASIC Design Flow
-- RTL Design & Simulation
-- Synthesis (Cadence Genus)
-- Static Timing Analysis (STA)
-- Physical Design Basics
-- RTL-to-GDSII Flow
+![Verilog](https://img.shields.io/badge/Verilog_HDL-0f2027?style=flat-square&logo=v&logoColor=00E5FF)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0f2027?style=flat-square&logo=v&logoColor=A78BFA)
+![Combinational](https://img.shields.io/badge/Combinational_Logic-0f2027?style=flat-square)
+![Sequential](https://img.shields.io/badge/Sequential_Logic-0f2027?style=flat-square)
+![FSM](https://img.shields.io/badge/FSM-0f2027?style=flat-square)
+![Counters](https://img.shields.io/badge/Counters-0f2027?style=flat-square)
+![ShiftReg](https://img.shields.io/badge/Shift_Registers-0f2027?style=flat-square)
+![ALU](https://img.shields.io/badge/ALU-0f2027?style=flat-square)
+![MUX](https://img.shields.io/badge/Multiplexers-0f2027?style=flat-square)
+![COA](https://img.shields.io/badge/Computer_Organization-0f2027?style=flat-square)
 
-### EDA Tools & Environment
-- ModelSim, Vivado, EDA Playground
-- Cadence Genus, Cadence Innovus, NCLaunch
-- Qflow
-- GVim
-- Python, Linux, Git, GitHub
+</details>
 
-### AI-Assisted Engineering
-Using ChatGPT, Claude, Gemini, and other AI tools to speed up learning, documentation, and debugging assistance. These tools support engineering understanding — they don't replace hands-on simulation and hardware reasoning.
+<details open>
+<summary><b>🔹 Verification</b></summary>
+<br>
 
----
+![Testbench](https://img.shields.io/badge/Testbench_Development-0f2027?style=flat-square)
+![FuncVer](https://img.shields.io/badge/Functional_Verification-0f2027?style=flat-square)
+![Waveform](https://img.shields.io/badge/Waveform_Analysis-0f2027?style=flat-square)
+![Simulation](https://img.shields.io/badge/Simulation-0f2027?style=flat-square)
+![Debug](https://img.shields.io/badge/Debugging-0f2027?style=flat-square)
+![ClockGen](https://img.shields.io/badge/Clock/Frequency_Generation-0f2027?style=flat-square)
 
-## Featured Project: RV32IM RISC-V Core (7nm ASIC Flow)
+</details>
 
-**32-bit RV32IM RISC-V processor designed in Verilog HDL with complete ASIC RTL-to-GDSII flow implementation.**
+<details open>
+<summary><b>🔹 ASIC Design Flow</b></summary>
+<br>
 
-Key Features:
-- Full RV32IM instruction set support
-- ASIC RTL-to-GDSII flow using Cadence EDA tools
-- 7-nm technology node targeting
-- Focus on timing closure, area optimization, and power efficiency
-- Published as IEEE research paper
+![RTL](https://img.shields.io/badge/RTL_Design-0f2027?style=flat-square)
+![Sim](https://img.shields.io/badge/Simulation-0f2027?style=flat-square)
+![Synth](https://img.shields.io/badge/Synthesis-0f2027?style=flat-square)
+![STA](https://img.shields.io/badge/Static_Timing_Analysis-0f2027?style=flat-square)
+![PD](https://img.shields.io/badge/Physical_Design_Basics-0f2027?style=flat-square)
+![GDSII](https://img.shields.io/badge/RTL--to--GDSII-0f2027?style=flat-square)
 
-IEEE Publication: Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow
-(Available on IEEE Xplore - Document ID: 11559546)
+</details>
 
----
+<details open>
+<summary><b>🔹 EDA Tools</b></summary>
+<br>
 
-## Project Portfolio
+![ModelSim](https://img.shields.io/badge/ModelSim-0f2027?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-0f2027?style=flat-square&logo=xilinx&logoColor=00E5FF)
+![EDAPlayground](https://img.shields.io/badge/EDA_Playground-0f2027?style=flat-square)
+![GVim](https://img.shields.io/badge/GVim-0f2027?style=flat-square&logo=vim&logoColor=00E5FF)
+![Genus](https://img.shields.io/badge/Cadence_Genus-0f2027?style=flat-square)
+![Innovus](https://img.shields.io/badge/Cadence_Innovus-0f2027?style=flat-square)
+![NCLaunch](https://img.shields.io/badge/NCLaunch-0f2027?style=flat-square)
+![Qflow](https://img.shields.io/badge/Qflow-0f2027?style=flat-square)
 
-### 32-bit Parameterized ALU
-Arithmetic, logical, comparison, and shift operations with fully parameterized RTL design and self-checking Verilog testbench.
+</details>
 
-### Other RTL & Verification Projects
-- UART Protocol: RTL design and verification of UART transmitter/receiver
-- FSM Design & Verification: Finite state machine modeling with state transition verification
-- Counters: Synchronous/asynchronous counter designs with simulation verification
-- FIFO: Buffer design with read/write pointer and flag verification
-- RAM / Memory Design: Memory module design with read/write verification
-- APB-based Memory: APB protocol interfacing with memory blocks
-- Clock / Frequency Generation: RTL clock division and frequency generation modules
+<details open>
+<summary><b>🔹 Programming / Environment</b></summary>
+<br>
 
----
+![Python](https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/Linux-0f2027?style=flat-square&logo=linux&logoColor=00E5FF)
+![Git](https://img.shields.io/badge/Git-0f2027?style=flat-square&logo=git&logoColor=00E5FF)
+![GitHub](https://img.shields.io/badge/GitHub-0f2027?style=flat-square&logo=github&logoColor=00E5FF)
 
-## Engineering Learning Journey
+</details>
 
-Digital Logic → Verilog → RTL Design → FSM → Memory → FIFO → UART → APB → SystemVerilog → Verification → ASIC Flow → RISC-V
+<br>
 
-This represents a progressive learning path built through coursework, self-study, and hands-on projects.
+## 🤖 AI-Assisted Engineering
 
----
+<div align="center">
 
-## ASIC Design Journey
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0f2027?style=for-the-badge&logo=openai&logoColor=00E5FF)
+![Claude](https://img.shields.io/badge/Claude-0f2027?style=for-the-badge&logo=anthropic&logoColor=A78BFA)
+![Gemini](https://img.shields.io/badge/Gemini-0f2027?style=for-the-badge&logo=googlegemini&logoColor=00E5FF)
+![Kimi](https://img.shields.io/badge/Kimi_AI-0f2027?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-0f2027?style=for-the-badge)
+![Rocket](https://img.shields.io/badge/Rocket-0f2027?style=for-the-badge)
+![Quadratic](https://img.shields.io/badge/Quadratic-0f2027?style=for-the-badge)
 
-**Hands-on Experience:**
-- RTL Design
-- Simulation using ModelSim and EDA Playground
-- Synthesis with Cadence Genus
-- Physical Design flow using Cadence Innovus (via academic project/workshop)
+</div>
 
-**Currently Learning:**
-- Advanced Static Timing Analysis (STA)
-- Full-chip Physical Design Signoff
-- Verification Methodology (UVM Concepts)
-- SystemVerilog Advanced Constructs
-- FIFO and CDC (Clock Domain Crossing) Concepts
-- RISC-V Architecture Deep Dive
+I use these tools to speed up **learning, documentation, debugging assistance, and everyday engineering workflows**. They support my understanding of RTL and verification concepts — they don't replace hands-on simulation, waveform analysis, or hardware reasoning.
 
----
+<br>
 
-## Engineering Mindset
+## 🔥 Featured Project — RV32IM RISC-V Core (7nm ASIC Flow)
 
-- Understand the specification before coding
-- Design RTL with clear timing behavior
-- Verify functionality, not just compilation
-- Debug from waveform evidence
-- Think about corner cases and edge conditions
-- Understand the complete ASIC design flow
-- Use AI as an engineering assistant, not as a replacement for understanding
+<div align="center">
 
----
+### `RV32IM RISC-V Core — 7nm ASIC Flow`
 
-## Education
+</div>
+
+- 🧩 32-bit **RV32IM RISC-V** processor designed in **Verilog HDL**
+- 🏭 Complete **ASIC RTL-to-GDSII flow** implementation
+- 🛠️ Built using **Cadence EDA tools** (Genus, Innovus, NCLaunch)
+- 🔬 Targeted at **7-nm technology node**
+- ⏱️ Focus on **timing closure**, **area optimization**, and **power efficiency**
+- 📄 Published as an **IEEE research paper**
+
+**📚 IEEE Xplore:** [Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow](https://ieeexplore.ieee.org/abstract/document/11559546)
+
+<br>
+
+## 🧮 Project — 32-bit Parameterized ALU
+
+- ➕ Arithmetic operations (add, subtract, multiply)
+- 🔣 Logical operations (AND, OR, XOR, NOT)
+- ⚖️ Comparison operations
+- ↔️ Shift operations (logical & arithmetic)
+- 🧩 Fully **parameterized RTL** design
+- ✅ **Self-checking Verilog testbench**
+- ▶️ RTL simulation, debugging, and functional verification
+
+<br>
+
+## 📁 Other RTL / Verification Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔌 UART Protocol**
+RTL design and verification of a UART transmitter/receiver with testbench-based functional checks.
+
+</td>
+<td width="50%">
+
+**🔁 FSM Design & Verification**
+Finite state machine modeling in RTL with simulation-based verification of state transitions.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔢 Counters**
+Parameterized synchronous/asynchronous counter designs verified through simulation.
+
+</td>
+<td width="50%">
+
+**📥 FIFO**
+FIFO buffer design with functional verification of read/write pointers and flag conditions.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧠 RAM / Memory Design**
+RTL memory module design with read/write verification.
+
+</td>
+<td width="50%">
+
+**🚌 APB-based Memory**
+APB protocol interfacing with memory blocks, verified via testbench simulation.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**⏰ Clock / Frequency Generation**
+RTL modules for clock division and frequency generation, verified through simulation.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌱 Engineering Learning Journey
+
+<div align="center">
+
+`Digital Logic` → `Verilog` → `RTL Design` → `FSM` → `Memory` → `FIFO` → `UART` → `APB` → `SystemVerilog` → `Verification` → `ASIC Flow` → `RISC-V`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/>
+
+</div>
+
+This reflects a **progressive learning path**, not claimed professional experience — each stage represents concepts and skills built through coursework, self-study, and hands-on projects.
+
+<br>
+
+## 🏭 ASIC Design Journey
+
+**✅ Hands-on experience:** RTL Design, Simulation, Synthesis (Cadence Genus), Physical Design flow using Cadence Innovus (via academic project/workshop)
+**📖 Currently learning:** Advanced STA, full-chip physical design signoff, and verification methodology (UVM concepts)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodgaddam1&theme=tokyonight&hide_border=true&background=0f2027&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF"/>
+
+</div>
+
+<br>
+
+
+
+<br>
+
+## 🎯 Currently Learning
+
+- 📘 SystemVerilog (advanced constructs)
+- ✍️ Advanced RTL Design
+- ✅ Functional Verification methodology
+- 🔁 FIFO / CDC (Clock Domain Crossing) concepts
+- 🚌 APB / UART protocol design
+- 🏭 ASIC design flow (deeper physical design)
+- 🖥️ RISC-V architecture
+- 🧪 Verification methodology fundamentals
+
+<br>
+
+## 🧠 Engineering Mindset
+
+- 📋 Understand the specification before coding.
+- ⏱️ Design RTL with clear timing behavior.
+- ✅ Verify functionality, not just compilation.
+- 🌊 Debug from waveform evidence.
+- 🎯 Think about corner cases.
+- 🏭 Understand the complete ASIC flow.
+- 🤖 Use AI as an engineering assistant, not as a replacement for understanding.
+
+<br>
+
+## 🎓 Education
 
 **B.Tech — Electronics and Communication Engineering**
 Madanapalle Institute of Technology & Science (MITS), Deemed to be University
-2022 – 2026 | CGPA: 8.19/10
+`2022 – 2026` | **CGPA: 8.19/10**
 
----
+<br>
 
-## Certifications
+## 📜 Certifications
 
-- Physical Design (RTL-to-GDSII) Workshop — KT Semicon, 2026
-- VLSI SoC Design using Verilog HDL — Maven Silicon, 2025
-- Introduction to Microprocessors — edX
-- VLSI Training — NIELIT, 2025
-- Python for Beginners — Simplilearn
+- 🏗️ Physical Design (RTL-to-GDSII) Workshop — **KT Semicon**, 2026
+- 🔬 VLSI SoC Design using Verilog HDL — **Maven Silicon**, 2025
+- 💻 Introduction to Microprocessors — **edX**
+- ⚡ VLSI Training — **NIELIT**, 2025
+- 🐍 Python for Beginners — **Simplilearn**
 
----
+<br>
 
-## IEEE Research Publication
+## 📚 IEEE Research Publication
 
-**Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow**
+<div align="center">
 
-Published on IEEE Xplore (Document ID: 11559546)
+### 📄 Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow
 
----
+**[🔗 Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11559546)**
 
-**Let's build reliable silicon.**
+</div>
 
-Contact: gaddamvinod9391@gmail.com
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=1000" width="100%"/>
+
+<div align="center">
+
+### 🤝 Let's build reliable silicon.
+
+[![Email](https://img.shields.io/badge/Email-gaddamvinod9391%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0f2027)](mailto:gaddamvinod9391@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinod--kumar--gaddam-0f2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0f2027)](https://linkedin.com/in/vinod-kumar-gaddam)
+[![GitHub](https://img.shields.io/badge/GitHub-vinodgaddam1-0f2027?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0f2027)](https://github.com/vinodgaddam1)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=00E5FF&animation=fadeIn&fontAlignY=75" width="100%"/>
+
