@@ -274,7 +274,9 @@ This reflects a **progressive learning path**, not claimed professional experien
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodgaddam1&theme=tokyonight&hide_border=true&background=0f2027&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF"/>
+![](https://github-readme-stats.shion.dev/api?username=vinodgaddam1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vinodgaddam1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinodgaddam1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
