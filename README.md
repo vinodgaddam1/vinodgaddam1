@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=vinodgaddam1&theme=aurora&label=Gaddam%20Vinod%20Kumar" width="100%" alt="3D ASCII wordmark for Gaddam Vinod Kumar" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=vinodgaddam1&theme=aurora&label=Gaddam" width="100%" alt="3D ASCII wordmark: Gaddam" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=vinodgaddam1&theme=aurora&label=Vinod%20Kumar" width="100%" alt="3D ASCII wordmark: Vinod Kumar" />
 </p>
 
 <p align="center">
@@ -24,7 +25,8 @@
 ## The visual system
 
 <p align="center">
-  <img src="assets/portrait.png" width="380" alt="ASCII portrait of Gaddam Vinod Kumar" />
+<img width="799" height="1559" alt="portrait" src="https://github.com/user-attachments/assets/2dc5c0ae-1949-42f4-8e09-76ad3f17a1e8" />
+
 </p>
 
 <p align="center">
