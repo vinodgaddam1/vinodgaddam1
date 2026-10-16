@@ -2,6 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GADDAM%20VINOD%20KUMAR&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=vinodgaddam1&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=vinodgaddam1&theme=aurora&mode=dark" width="100%" alt="Animated GitHub profile hero for Gaddam Vinod Kumar" />
+  </picture>
+</p>
+<p align="center">
+  <img src="assets/profile-ascii.svg" width="100%" alt="ASCII profile scan" />
+</p>
+
+
 <br>
 
 `Verilog` • `SystemVerilog` • `Digital Design` • `ASIC Flow` • `RISC-V`
@@ -27,6 +38,11 @@
     width="100%"
   />
 </picture>
+ <p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=vinodgaddam1&theme=aurora&label=Gaddam" width="100%" alt="3D ASCII wordmark: Gaddam" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=vinodgaddam1&theme=aurora&label=Vinod%20Kumar" width="100%" alt="3D ASCII wordmark: Vinod Kumar" />
+</p>
+  
 
 <br>
 
@@ -43,7 +59,9 @@ I'm an aspiring **RTL Design & Verification Engineer**, currently building my fo
 - 🐍 Using **Python** and **Linux** for engineering workflows and automation
 - 🤖 Integrating **AI-assisted engineering** into my learning and debugging process
 
-> I'm early in my journey and building real, verifiable skills — not claiming professional industry experience.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=vinodgaddam1&theme=aurora&items=RTL%20Design::Verilog%20and%20SystemVerilog|ASIC%20Flow::RTL-to-GDSII%20with%20Cadence|RISC-V::RV32IM%20core%20in%207nm%20(IEEE)" width="100%" alt="Animated profile highlights" />
+</p>
 
 <br>
 
@@ -173,6 +191,9 @@ I use these tools to speed up **learning, documentation, debugging assistance, a
 - 📄 Published as an **IEEE research paper**
 
 **📚 IEEE Xplore:** [Design and Physical Implementation of an RV32IM RISC-V Core in 7-nm Technology Using Cadence EDA Flow](https://ieeexplore.ieee.org/abstract/document/11559546)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=vinodgaddam1&theme=aurora" width="100%" alt="Animated pinned projects section" />
+</p>
 
 <br>
 
@@ -350,6 +371,19 @@ Madanapalle Institute of Technology & Science (MITS), Deemed to be University
 [![Email](https://img.shields.io/badge/Email-gaddamvinod9391%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0f2027)](mailto:gaddamvinod9391@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinod--kumar--gaddam-0f2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0f2027)](https://linkedin.com/in/vinod-kumar-gaddam)
 [![GitHub](https://img.shields.io/badge/GitHub-vinodgaddam1-0f2027?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0f2027)](https://github.com/vinodgaddam1)
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vinodgaddam1&theme=aurora&style=jet" width="100%" alt="Animated contribution Jet game" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vinodgaddam1&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vinodgaddam1&theme=aurora&style=erased" width="100%" alt="Animated contribution Eraser visual" />
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=00E5FF&animation=fadeIn&fontAlignY=75" width="100%"/>
 
