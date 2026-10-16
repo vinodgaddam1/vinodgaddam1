@@ -7,11 +7,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=vinodgaddam1&theme=aurora&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=vinodgaddam1&theme=aurora&mode=dark" width="100%" alt="Animated GitHub profile hero for Gaddam Vinod Kumar" />
   </picture>
-</p>
-<p align="center">
-  <img src="assets/profile-ascii.svg" width="100%" alt="ASCII profile scan" />
-</p>
-
 
 <br>
 
