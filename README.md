@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GADDAM%20VINOD%20KUMAR&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=vinodgaddam1&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=vinodgaddam1&theme=aurora&mode=dark" width="100%" alt="Animated GitHub profile hero for Gaddam Vinod Kumar" />
-  </picture>
+
 
 <br>
 
